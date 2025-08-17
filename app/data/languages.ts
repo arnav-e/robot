@@ -105,3 +105,4 @@ export const languages: Record<string, LanguageTexts> = {
     loadingDesc: 'आपकी बुद्धिमान रिमाइंडर प्रणाली तैयार हो रही है...'
   }
 };
+

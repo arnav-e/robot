@@ -51,3 +51,4 @@ export interface LanguageTexts {
   loading: string;
   loadingDesc: string;
 }
+
